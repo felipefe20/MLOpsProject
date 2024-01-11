@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/felipefe20/MLOpsProject
+Author: felipefe20
+Author-email: ofelipefernandez@gmail.com
+Project-URL: Bug Tracker, https://github.com/felipefe20/MLOpsProject/issues
+
+## Deep Learning End to end project, using DVC, mlflow
+## github actions and 
